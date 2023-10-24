@@ -1,0 +1,16 @@
+{
+  "name": "server-side-rendering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Merlin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.4.0"
+  }
+}
