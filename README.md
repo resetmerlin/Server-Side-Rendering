@@ -19,5 +19,9 @@ I put the annoation on the each branch(Kr, En). If you are comfortable with Engl
 To test this repo, type below to execute and go to the localhost:8080
 
 ```
+npm install
+```
+
+```
 node --experimental-modules server.mjs
 ```
